@@ -54,13 +54,9 @@ Please note that:
 ## How to play
 -----------
 
-- Make sure php is installed on your PC 
-
-- Go to inside the folder /thalasse_beegame
-
-- Launch a local server on any port you want (for example: php -S localhost:8000) 
-
-- Go to http://localhost:8000/play.php
-
-- Kill the bees ! 
+	Steps : 
+	- Make sure php is installed on your PC 
+	- Launch a local server on any port you want inside the ThalasseoBeeGame folder (for example with the command : php -S localhost:8000)
+	- Go to http://localhost:8000/play.php
+	- Kill the bees ! 
 
