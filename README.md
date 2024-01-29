@@ -55,9 +55,11 @@ Please note that:
 -----------
 
 Steps :
- 
+
+    - Download the folder or clone the git repo
 	- Make sure php is installed on your PC 
-	- Launch a local server on any port you want inside the ThalasseoBeeGame folder (for example with the command : php -S localhost:8000)
+	- Launch a local server on any port you want inside the folder containing the file 'play.php' 
+	- Example with the command : php -S localhost:8000
 	- Go to http://localhost:8000/play.php
 	- Kill the bees ! 
 
