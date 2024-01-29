@@ -54,7 +54,8 @@ Please note that:
 ## How to play
 -----------
 
-	Steps : 
+Steps :
+ 
 	- Make sure php is installed on your PC 
 	- Launch a local server on any port you want inside the ThalasseoBeeGame folder (for example with the command : php -S localhost:8000)
 	- Go to http://localhost:8000/play.php
